@@ -9,7 +9,7 @@
 #import <CoreData/CoreData.h>
 
 //! Project version number for MagicalRecord.
-FOUNDATION_EXPORT double MagicalRecordVersionNumber;
+//FOUNDATION_EXPORT double MagicalRecordVersionNumber;
 
 //! Project version string for MagicalRecord.
 FOUNDATION_EXPORT const unsigned char MagicalRecordVersionString[];
